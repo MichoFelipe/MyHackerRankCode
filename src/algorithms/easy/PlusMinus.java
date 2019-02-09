@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
 
 public class PlusMinus {
 
-	// Complete the plusMinus function below.
+	// Complete the plusMinus function below. 
 	static void plusMinus(int[] arr) {
 
 		int size = arr.length;
